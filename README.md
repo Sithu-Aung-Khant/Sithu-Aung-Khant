@@ -33,7 +33,7 @@ I'm a senior project officer in the non-profit sector, eager to transition my ca
 <!-- <img align="right" alt="GIF" src="./assets/Hand coding-bro.svg" width="360px"/> -->
 <!-- <img align="right" alt="GIF" src="./assets/JavaScript frameworks-pana.svg" width="360px"/> -->
 
-### I'm currently:
+### 🎯 I'm currently:
 
 - Learning **<img src="./assets/react-logo.png" width="15" height="15"  style="margin-bottom: -2px"> React** .
 
@@ -56,9 +56,7 @@ I'm a senior project officer in the non-profit sector, eager to transition my ca
 
 <br>
 
-### 📫 Connect with me:
-
----
+## 📫 Connect with me:
 
 <div align='center'>
     
