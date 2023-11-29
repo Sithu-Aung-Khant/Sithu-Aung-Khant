@@ -1,10 +1,10 @@
 <!-- Banner -->
 
-![Banner-image](./assets/Cover%20Photos/#4.png)
+![Banner-image](./assets/cover-photos/%234.png)
 
-<p align="center">
+<h3 align="center">
 🧑‍💻 Front-End Developer | 📱Tech Enthusiast | 🚀Productivity Geek
-</p>
+</h3>
 
 <p align="center">
 I'm a senior project officer in the non-profit sector, eager to transition my career into the tech industry, where my true passion lies. My focus is on web development, specifically front-end development. I'm dedicated to mastering these skills as I embark on my journey to become a front-end developer.
