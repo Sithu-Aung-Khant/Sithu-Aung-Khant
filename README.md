@@ -1,6 +1,6 @@
 <!-- Banner -->
 
-![Banner-image](./assets/Black%20Modern%20Personal%20LinkedIn%20Banner.png)
+![Banner-image](./assets/Cover%20Photos/#4.png)
 
 <p align="center">
 🧑‍💻 Front-End Developer | 📱Tech Enthusiast | 🚀Productivity Geek
