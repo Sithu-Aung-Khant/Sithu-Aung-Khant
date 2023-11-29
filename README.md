@@ -14,47 +14,38 @@ I'm a senior project officer in the non-profit sector, eager to transition my ca
 
 <!--- Web illustrations by Storyset ( https://storyset.com/web ) --->
 
-<a href="https://storyset.com/work" align="right"><img align="right" alt="GIF" src="./assets/Code typing-bro.svg" width="350px"/></a>
+<a href="https://storyset.com/work" align="right"><img align="right" alt="GIF" src="./assets/svgs/Code typing-bro.svg" width="350px" style="margin-right: 0px;"></a>
 
 <!-- <img align="right" alt="GIF" src="./assets/Code typing-pana (1).svg" width="360px"/> -->
 <!-- <img align="right" alt="GIF" src="./assets/Hand coding-bro.svg" width="360px"/> -->
 <!-- <img align="right" alt="GIF" src="./assets/JavaScript frameworks-pana.svg" width="360px"/> -->
 
-<br>
+### I'm currently:
 
-- 📑 I am studying to become a **Front End Developer**.
+- Learning **<img src="./assets/react-logo.png" width="15" height="15"  style="margin-bottom: -2px"> React** .
 
-- 🌱 I’m currently learning **React**.
+- Building **Projects** on [**<img src="./assets/favicon-32x32.png" width="15" height="15" style="margin-bottom: -2px"> Frontend Mentor**](https://www.frontendmentor.io/profile/Sithu-Aung-Khant).
 
-<!-- - 🌱 I’m currently learning **React**. -->
+<!-- - Building **Projects** on **Frontend Mentor**. [**🔗Link**](https://www.frontendmentor.io/profile/Sithu-Aung-Khant) -->
 
-- 🔭 I'm focusing to build a **Portfolio** Website.
+- Focusing on building a **Portfolio Website**.
 
-- 🔍 Take a look at my projects on [**Frontend Mentor**](https://www.frontendmentor.io/profile/Sithu-Aung-Khant).
+- Check out my **Projects repos** on [**Github**](https://github.com/Sithu-Aung-Khant?tab=repositories).
 
 - 📫 Reach me out at: **sithu.sithuthedev@gmail.com**.
 
-<!-- - 💬 Ask me about **HTML, CSS, JS**. -->
+### 📈 Achievements:
 
-<!-- - 👯 I’m looking to collaborate on **developing new open-source projects**. -->
+---
 
-## 🎯 Goals
-
-- 📖 Learn **React** Front-End Framework
-- ⚒️Build a **Portfolio Website** using **React**.
-
-## 📈 Achievements
-
-- 🌟 [**JavaScript Algorithms and Data Structure**](https://www.freecodecamp.org/certification/sithu_thedev/javascript-algorithms-and-data-structures) Certification from [**freeCodeCamp**](https://www.freecodecamp.org/).
-- ✨ [**Responsive Web Design**](https://www.freecodecamp.org/certification/Sithu_Aung_Khant/responsive-web-design) Certifications from [**freeCodeCamp**](https://www.freecodecamp.org/).
-- 🤝 I have successfully completed **projects** on [**Frontend Mentor**](https://www.frontendmentor.io/profile/Sithu-Aung-Khant) and shared my code with others.
-- ⚒️ I have buit personal projects on [**My Github Repos**](https://github.com/sithu-thedev?tab=repositories).
+- <img src="./assets/svgs/images.png" width="15" height="15" style="margin-bottom: -2px"> [**JavaScript Algorithms and Data Structure**](https://www.freecodecamp.org/certification/sithu_thedev/javascript-algorithms-and-data-structures) **Certification** from **freeCodeCamp**.
+- <img src="./assets/svgs/images.png" width="15" height="15" style="margin-bottom: -2px"> [**Responsive Web Design**](https://www.freecodecamp.org/certification/Sithu_Aung_Khant/responsive-web-design) **Certifications** from **freeCodeCamp**.
 
 <br>
 
-<h2 align="center">📫 Connect with me</h2>
+<h2 align="center">📫 Connect with me:</h2>
 
-<div align = "center">
+<div align="center">
     
 [![Linkedin: Sithu Aung Khant](https://img.shields.io/badge/-linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sithu-aung-khant-504ba91b5/)](https://www.linkedin.com/in/sithu-aung-khant-504ba91b5/)
 [![Twitter: Sithu_AungKhant](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/Sithu_AungKhant)](https://twitter.com/Sithu_AungKhant)
@@ -62,8 +53,7 @@ I'm a senior project officer in the non-profit sector, eager to transition my ca
 <br>
 [![Frontend Mentor](https://img.shields.io/badge/-Frontend%20Mentor-5F3DC4?style=for-the-badge&logo=FrontendMentor&logoColor=white&link=https://www.frontendmentor.io/profile/Sithu-Aung-Khant)](https://www.frontendmentor.io/profile/Sithu-Aung-Khant)
 [![FreeCodeCamp](https://img.shields.io/badge/-FreeCodeCamp-0A0A23?style=for-the-badge&logo=FreeCodeCamp&logoColor=white&link=https://www.freecodecamp.org/sithu_thedev)](https://www.freecodecamp.org/sithu_thedev)&nbsp;
-[![Gmail: Sithu Aung Khant](https://img.shields.io/badge/-gmail-red?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:melvinaguilarhdz@gmail.com)](mailto:sithu.sithuthedev@gmail.com)&nbsp;
-  
+
 </div>
 
 <div align = "center">
