@@ -7,7 +7,8 @@
 </h3>
 
 <p align="center">
-I'm a senior project officer in the non-profit sector, eager to transition my career into the tech industry, where my true passion lies. My focus is on web development, specifically front-end development. I'm dedicated to mastering these skills as I embark on my journey to become a front-end developer.
+🚀 Hi, I'm Sithu Aung Khant, a passionate front-end developer proficient in HTML, CSS, and JavaScript, navigating the React landscape with a penchant for crafting visually stunning and functionally robust websites. 
+I'm actively seeking opportunities to apply my skills in a collaborative environment. If you're in search of a developer who thrives on pushing limits and embraces challenges, let's connect and explore the possibilities.
 </p>
 
 <div align="center">
