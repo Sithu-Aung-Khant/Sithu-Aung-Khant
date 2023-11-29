@@ -54,8 +54,8 @@ I'm a senior project officer in the non-profit sector, eager to transition my ca
 <!-- - <img src="./assets/svgs/images.png" width="15" height="15" style="margin-bottom: -2px"> [**JavaScript Algorithms and Data Structure**](https://www.freecodecamp.org/certification/sithu_thedev/javascript-algorithms-and-data-structures) **Certification** from **freeCodeCamp**.
 - <img src="./assets/svgs/images.png" width="15" height="15" style="margin-bottom: -2px"> [**Responsive Web Design**](https://www.freecodecamp.org/certification/Sithu_Aung_Khant/responsive-web-design) **Certifications** from **freeCodeCamp**. -->
 
-- <img src="./assets/svgs/images.png" width="15" height="15" style="margin-bottom: -2px"> [**JavaScript Algorithms and Data Structure Certification**](https://www.freecodecamp.org/certification/sithu_thedev/javascript-algorithms-and-data-structures).
-- <img src="./assets/svgs/images.png" width="15" height="15" style="margin-bottom: -2px">[ **Responsive Web Design Certification**](https://www.freecodecamp.org/certification/Sithu_Aung_Khant/responsive-web-design).
+- <img src="./assets/svgs/images.png" width="15" height="15" style="margin-bottom: -2px"> [**JavaScript Algorithms and Data Structure**](https://www.freecodecamp.org/certification/sithu_thedev/javascript-algorithms-and-data-structures) **Certification** from **freeCodeCamp**.
+- <img src="./assets/svgs/images.png" width="15" height="15" style="margin-bottom: -2px">[ **Responsive Web Design**](https://www.freecodecamp.org/certification/Sithu_Aung_Khant/responsive-web-design) **Certification** from **freeCodeCamp**.
 
 <br>
 
