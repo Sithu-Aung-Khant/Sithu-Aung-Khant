@@ -1,6 +1,6 @@
 <!-- Banner -->
 
-![Banner-image](./assets/cover-photos/6.png)
+![Banner-image](./assets/cover-photos/5.png)
 
 <h3 align="center">
 🧑‍💻 Front-End Developer | <img src="./assets/react-logo.png" width="18" height="18"  style="margin-bottom: -2px"> React Developer | <img src="./assets/svgs/Notion-logo.svg" width="18" height="18"  style="margin-bottom: -2px"> Notion Power User
