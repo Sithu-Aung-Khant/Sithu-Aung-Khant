@@ -3,24 +3,27 @@
 ![Banner-image](./assets/cover-photos/5.png)
 
 <h3 align="center">
-🧑‍💻 Front-End Developer | <img src="./assets/react-logo.png" width="18" height="18"  style="margin-bottom: -2px"> React Developer | <img src="./assets/svgs/Notion-logo.svg" width="18" height="18"  style="margin-bottom: -2px"> Notion Power User
+🗜️Front-End Developer | <img src="./assets/react-logo.png" width="15" height="18"  style="margin-bottom: -2px"> React | <img src="./assets/svgs/NEXT.svg" width="18" height="18"  style="margin-bottom: -2px"> Next.js Developer
+
+<!-- <img src="./assets/svgs/Notion-logo.svg" width="18" height="18"  style="margin-bottom: -2px"> Notion Power User -->
 </h3>
 
 <p align="center">
-Hello, 👋 I am Sithu, a Front-end Developer who specialize in transforming design concepts into dynamic web experiences that captivate users. Dedicated to staying updated on industry trends and proficient in a wide range of tools and technologies essential for modern development workflows. My love for coding and problem-solving, particularly through the lens of technology, fuels my dedictation to this craft.
+Hey there! 👋 I'm a React | Next.js Developer who is dedicated to bringing design to life on the web.
 </p>
 
 <div align="center">
 
 ![React](https://img.shields.io/badge/-React-%23404d59?style=for-the-badge&logo=react)&nbsp;
-![JavaScript](https://img.shields.io/badge/Javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)&nbsp;
+![JavaScript](https://img.shields.io/badge/Javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
 ![Sass](https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)&nbsp;
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
 
+<!-- ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)&nbsp; -->
 <!-- ![Visual Studio Code](https://img.shields.io/badge/-VSCODE-007ACC?style=for-the-badge&&logo=visual-studio-code&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)&nbsp; -->
@@ -37,11 +40,11 @@ Hello, 👋 I am Sithu, a Front-end Developer who specialize in transforming des
 
 ### 🎯 I'm currently:
 
-- Learning **<img src="./assets/svgs/NEXT.svg" width="15" height="15"  style="margin-bottom: -2px"> Next.js** .
+- Building Projects with **<img src="./assets/react-logo.png" width="18" height="15"  style="margin-bottom: -2px"> React** & **<img src="./assets/svgs/NEXT.svg" width="15" height="15"  style="margin-bottom: -2px"> Next.js**.
 
 - Recently polished my <img src="./assets/svgs/terminal-left.svg" width="15" height="15"  style="margin-bottom: -2px"> [**Portfolio**](https://sithuthedev.netlify.app/).
 
-- Building **Projects** on [**<img src="./assets/favicon-32x32.png" width="15" height="15" style="margin-bottom: -2px"> Frontend Mentor**](https://www.frontendmentor.io/profile/Sithu-Aung-Khant).
+<!-- - Building **Projects** on [**<img src="./assets/favicon-32x32.png" width="15" height="15" style="margin-bottom: -2px"> Frontend Mentor**](https://www.frontendmentor.io/profile/Sithu-Aung-Khant). -->
 
 <!-- - Building **Projects** on **Frontend Mentor**. [**🔗Link**](https://www.frontendmentor.io/profile/Sithu-Aung-Khant) -->
 
