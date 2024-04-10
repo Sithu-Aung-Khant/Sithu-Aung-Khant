@@ -9,7 +9,7 @@
 </h3>
 
 <p align="center">
-Hey there! 👋 I'm a React | Next.js Developer dedicated to bringing design to life on the web.
+Hey there! 👋 I'm Sithu, React | Next.js Developer dedicated to bringing design to life on the web.
 </p>
 
 <div align="center">
