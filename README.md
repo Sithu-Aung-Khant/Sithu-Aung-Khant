@@ -1,6 +1,6 @@
 <!-- Banner -->
 
-![Banner-image](./assets/cover-photos/5.png)
+![Banner-image](./assets/cover-photos/LINKEDIN%20BANNER.png)
 
 <h3 align="center">
 🗜️Front-End Developer | <img src="./assets/react-logo.png" width="15" height="18"  style="margin-bottom: -2px"> React | <img src="./assets/svgs/NEXT.svg" width="18" height="18"  style="margin-bottom: -2px"> Next.js Developer
@@ -9,7 +9,7 @@
 </h3>
 
 <p align="center">
-Hey there! 👋 I'm Sithu, React | Next.js Developer dedicated to bringing design to life on the web.
+Hello! 👋 I'm a Frontend Developer specializing in React and Next.js, dedicated to bringing Designs to Life on the Web.
 </p>
 
 <div align="center">
@@ -59,6 +59,7 @@ Hey there! 👋 I'm Sithu, React | Next.js Developer dedicated to bringing desig
 <!-- - <img src="./assets/svgs/images.png" width="15" height="15" style="margin-bottom: -2px"> [**JavaScript Algorithms and Data Structure**](https://www.freecodecamp.org/certification/sithu_thedev/javascript-algorithms-and-data-structures) **Certification** from **freeCodeCamp**.
 - <img src="./assets/svgs/images.png" width="15" height="15" style="margin-bottom: -2px"> [**Responsive Web Design**](https://www.freecodecamp.org/certification/Sithu_Aung_Khant/responsive-web-design) **Certifications** from **freeCodeCamp**. -->
 
+- <img src="./assets/svgs/images.png" width="15" height="15" style="margin-bottom: -2px"> [**Front End Development Libraries**](https://freecodecamp.org/certification/sithu_thedev/front-end-development-libraries) **Certification** from **freeCodeCamp**.
 - <img src="./assets/svgs/images.png" width="15" height="15" style="margin-bottom: -2px"> [**JavaScript Algorithms and Data Structure**](https://www.freecodecamp.org/certification/sithu_thedev/javascript-algorithms-and-data-structures) **Certification** from **freeCodeCamp**.
 - <img src="./assets/svgs/images.png" width="15" height="15" style="margin-bottom: -2px">[ **Responsive Web Design**](https://www.freecodecamp.org/certification/Sithu_Aung_Khant/responsive-web-design) **Certification** from **freeCodeCamp**.
 
@@ -78,8 +79,8 @@ Hey there! 👋 I'm Sithu, React | Next.js Developer dedicated to bringing desig
 
 ## Developer info 🧑‍💻
 
-- Portfolio - [ [@sithuthedev](https://sithuthedev.netlify.app/) ]
-- LinkedIn - [ [@sithu-aung-khant](https://linkedin.com/in/sithu-aung-khant) ]
+- Portfolio Website - [ [sithuthedev.vercel.app](https://sithuthedev.vercel.app/) ]
+- LinkedIn Profile - [ [Sithu Aung Khant](https://linkedin.com/in/sithu-aung-khant) ]
 - Twitter - [ [@sithu_thedev](https://twitter.com/sithu_thedev) ]
 
 <!-- <h6 align="center">Show ❤️ by giving 🌟 my repositories!</h6> -->
